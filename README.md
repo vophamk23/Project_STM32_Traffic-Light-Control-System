@@ -835,11 +835,6 @@ This project is part of coursework and provided for educational purposes.
 - [STM32F1 Reference Manual](https://www.st.com/resource/en/reference_manual/cd00171190.pdf)
 - [STM32F1 HAL User Manual](https://www.st.com/resource/en/user_manual/um1850.pdf)
 
-### Tutorials:
-- [STM32 Timer Tutorial](https://controllerstech.com/stm32-timers-in-depth/)
-- [Cooperative Scheduler Design](https://www.embedded.com/cooperative-vs-preemptive-scheduling/)
-- [FSM in Embedded Systems](https://barrgroup.com/embedded-systems/how-to/state-machines)
-
 ---
 
 <div align="center">
