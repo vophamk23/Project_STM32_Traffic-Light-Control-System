@@ -1,4 +1,7 @@
 # 🚦 Traffic Light Controller System
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1C79C0?style=for-the-badge&logo=proteus&logoColor=white)
 ### **Intelligent Traffic Management with Cooperative Scheduler**
 
 <div align="center">
