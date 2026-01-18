@@ -398,7 +398,9 @@ void update_button_state(void)
 ## 💻 Hardware Configuration
 
 <!-- Insert pin configuration diagram here -->
-![Pin Configuration](images/pin-configuration.png)
+![Pin Configuration](https://raw.githubusercontent.com/vophamk23/Project_STM32_Traffic-Light-Control-System/main/C%E1%BA%A5u%20h%C3%ACnh%20ch%C3%A2n%20STM32.png)
+
+
 
 ### Required Components:
 
